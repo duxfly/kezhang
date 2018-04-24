@@ -1,0 +1,10 @@
+target/
+
+.classpath
+.project
+.DS_Store
+.settings/
+bin/
+log/
+.idea/
+com.lvzheng.service.kezhang.iml
